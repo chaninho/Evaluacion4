@@ -6,6 +6,7 @@ import CrudTable from './CrudTable'
 
 const CrudApp = () =>{
 
+
     /* Variable de estado de los productos*/
     const [productos, setProductos] = useState(()=>{
         const saveProductos = window.localStorage.getItem("productosData");
