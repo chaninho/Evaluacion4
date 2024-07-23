@@ -1,0 +1,22 @@
+{
+    "productos":[
+        {
+            "id":0,
+            "nombre":"Iphone 14",
+            "precio":200000,
+            "cantidad":2
+        },
+        {
+            "id":1,
+            "nombre":"Xiami p20",
+            "precio":150000,
+            "cantidad":5
+        },
+        {
+            "id":2,
+            "nombre":"Huawei new Galaxy",
+            "precio":199000,
+            "cantidad":7
+        }
+    ]
+}
